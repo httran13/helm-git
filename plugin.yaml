@@ -7,4 +7,4 @@ downloaders:
   protocols:
     - "gitlab"
     - "github"
-    - "us-south.git.cloud.ibm.com"
+    - "us-south.git.cloud.ibm"
